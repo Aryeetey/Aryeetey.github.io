@@ -1,0 +1,197 @@
+.topnav {
+  overflow: hidden;
+  background-color:#660000;
+}
+
+.mainImg{
+  width: 230%;
+}
+
+
+.topnav a {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 18px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topna:hover {
+  background-color:white;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: white;
+    color: black;
+}
+
+header{
+  color: #660000;
+  font-size: 50px;
+  font-family: arial black;
+  font-weight: lighter;
+  text-align: center;
+  text-shadow: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 90px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  float: left;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  float: left;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  float: left;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  float: left;
+}
+
+p{
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 30px
+}
+
+.untitled {
+  float: left;
+  height: 220px;
+  width: 320px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+h1{
+  font-size: 50px;
+  font-family: arial black;
+  text-align: center;
+  color: #660000;
+}
+img{
+  float: left;
+}
+
+footer{
+  position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color:#660000;
+     color: white;
+     text-align: center;
+}
+
+h2{
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 20px
+}
+h3{
+  float: left;
+}
+h7{
+  font-size: 50px;
+  font-family: arial black;
+  text-align: center;
+  color: #660000;
+}
+p{
+  font-size: 20px;
+  margin: 5px;
+}
+p4{
+  font-size: 20px;
+  margin: 5px;
+}
+h5{
+  color:#660000;
+  margin: 4px;
+  font-size: 40px
+}
+h6{
+  font-size: 20px;
+  color:#660000;
+}
+input[type="username"], input[type="password"]{
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: none;
+  background-color:#d9d9d9;
+  height: 45px;
+  width: 300px;
+  font-size:18px
+}
+.btn-login{
+  padding: 15px  30px;
+  cursor: pointer;
+  border: none;
+  border-bottom: 4px solid #b30000;
+  border-radius: 4px;
+  color: #fff;
+  margin-bottom: 20px;
+  background-color: #b30000;
+}
+a{
+  color: #b30000;
+}
+.login-div{
+  margin: center:50%;
+}
